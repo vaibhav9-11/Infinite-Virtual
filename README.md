@@ -25,7 +25,7 @@ We decouple the display terminal from the traditional "face-mounted screen" into
 
 ## 2. Chapter 1: Visual Relay System
 
-*Note: The visual system can also be produced independently to replace all traditional screens.*
+*Note: The visual system can also be produced independently to replace all traditional screens.PPD (60-120)、FOV (180°)、Latency (<10ms)*
 
 ### 2.1 Physical Architecture
 
@@ -176,7 +176,7 @@ Project Aether-Link is an attempt to reconstruct physical reality. We do not man
 
 ## 2. 第一章：视觉中继系统 (Visual Relay System)
 
-*注：该视觉系统也可独立生产，以取代所有传统屏幕。*
+*注：该视觉系统也可独立生产，以取代所有传统屏幕。PPD (60-120)、FOV (180°)、Latency (<10ms)*
 
 ### 2.1 物理架构
 
