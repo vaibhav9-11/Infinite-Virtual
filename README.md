@@ -100,6 +100,28 @@ Abandoning fixed designs in favor of logic-based streamed recomposition.
 * *Texture Simulation:* High-frequency, low-amplitude vibrations simulate wind, water flow, and tactile sensations via algorithms.
 * *Projectile Impact:* Localized coils generate strong instantaneous magnetic fields to propel magnetic beads against the skin (buffered by lining), simulating the kinetic energy of being hit (Bullet Impact).
 
+### 4.3 Atmospheric & Acoustic Reconstruction
+
+* **Vector Fan Array with Thermal Feedback:**
+* **Dynamic Wind Simulation:** High-speed micro-fans integrated into the physical wall modules utilize fluid dynamics algorithms to simulate wind direction and velocity.
+* **Thermal Mapping:** Each fan is equipped with a TEC (Thermoelectric Cooler/Heater) to switch between freezing gusts and heatwaves in milliseconds, mapping the environment's temperature to the skin.
+
+* **7.1.4 Spherical Spatial Audio:**
+* **Phased-Array Acoustics:** Ultra-thin piezoelectric ceramic speakers are deployed across the physical frame.
+* **Beamforming Technology:** Sound is focused precisely on the user’s ears using phase-difference algorithms, creating deep immersion where sound sources have actual physical distance without the need for headphones.
+
+### 4.4 Olfactory Synthesis Module (Scent)
+
+* **Microfluidic Odor Synthesis:** The module stores 16–32 base aromatic essences (e.g., ozone, gunpowder, pine, brine).
+* **Precision Mixing:** Utilizing microfluidic pumps to mix essences in real-time, synthesizing thousands of derivative scents (e.g., "burning wood after rain").
+* **Instant Odor Voiding:** Integrated negative pressure suction synchronized with the fan array to evacuate residual scents during scene transitions, preventing "olfactory ghosting."
+
+### 4.5 Gustatory Synthesis Interface (Taste)
+
+* **Bio-compatible Mouthpiece:** A micro-injection interface or tip-of-tongue contact patch.
+* **The Five Basic Tastes:** Internal reservoirs for Acid, Sweet, Bitter, Salty, and Umami concentrates, including cooling/heating agents to simulate spiciness.
+* **Chemical Bio-Coupling:** Micro-doses (microliter scale) are released based on virtual interactions, while the haptic suit stimulates jaw muscles to simulate the physical sensation of chewing.
+
 ---
 
 ## 5. Chapter 4: Inertial Dynamic Interaction
@@ -251,6 +273,29 @@ Project Aether-Link is an attempt to reconstruct physical reality. We do not man
 * **双重反馈：**
 * *纹理模拟：* 高频低幅震动模拟风吹、水流，并通过算法让磁珠模拟触觉。
 * *弹射冲击：* 局部线圈产生强瞬时磁场，弹射磁珠撞击皮肤（内衬缓冲），模拟受击动能（Bullet Impact）。
+
+### 4.3 大气与声学重构系统 (Atmospheric & Acoustic Reconstruction)
+
+* **全向矢量风机阵列 (Vector Fan Array)：**
+* **动态风感：** 物理墙模块顶端集成微型高转速风机，配合流体动力学算法，模拟虚拟世界中的风向与风速。
+* **热力反馈：** 风机前置半导体制冷/加热片（TEC），可在毫秒内切换出冷风（雪地场景）或热浪（爆炸/沙漠场景），实现环境温度的物理映射。
+
+* **球形空间声场 (Spherical Spatial Audio)：**
+* **物理环绕阵列：** 在物理墙框架的 7.1.4 布局点位部署超薄压电陶瓷扬声器。
+* **波束成形技术：** 利用相位差算法，将声音精准“聚焦”到用户耳部，配合母机（眼镜）的耳部补偿音效，实现即使不戴耳机也能分辨声源物理距离的深度沉浸感。
+
+### 4.4 多维度气味合成模块 (Olfactory Synthesis Module)
+
+* **预设气味矩阵：** 模块内置 16-32 种基础气味原液（如草木、硝烟、海水、泥土等）。
+* **微流控混合技术 (Microfluidics)：** 通过高精度微泵将不同原液泵入混合室。利用不同比例的雾化组合，合成出数千种衍生气味（如“燃烧的松木”或“雨后的街道”）。
+* **瞬时排空机制：** 配合风机阵列的负压吸风功能，在场景切换时迅速抽离残留气味，防止气味残留导致感官认知偏差。
+
+### 4.5 触觉式味觉合成接口 (Gustatory Synthesis Interface)
+
+* **口含式添加剂模块：** 一种符合生物安全标准的微型咬合装置或舌尖接触贴片。
+* **五味原液混合：** 装置内部储存有极高浓度的五种基础味觉（酸、甜、苦、咸、鲜）以及清凉剂/发热剂（模拟辣味）。
+* **生物脉冲控制：** 根据虚拟世界的饮食或环境交互，通过微喷射技术将微量（微升量级）的添加剂混合物释放至舌尖区域。
+* **真实质感模拟：** 配合微磁体感服对下颌肌肉的电刺激，模拟咀嚼感，结合化学味觉反馈，实现对虚拟食物或环境毒素的生理级还原。
 
 ---
 
