@@ -122,6 +122,28 @@ Abandoning fixed designs in favor of logic-based streamed recomposition.
 * **The Five Basic Tastes:** Internal reservoirs for Acid, Sweet, Bitter, Salty, and Umami concentrates, including cooling/heating agents to simulate spiciness.
 * **Chemical Bio-Coupling:** Micro-doses (microliter scale) are released based on virtual interactions, while the haptic suit stimulates jaw muscles to simulate the physical sensation of chewing.
 
+### 4.6 Dynamic Morphing Furniture
+
+The system leverages the vertical redundancy of the floor matrix to expand "2D planar displacement" into "3D volumetric morphing".
+
+* **Vertical Elevation Logic:** Floor tile units double as structural modules. Upon detecting interaction intent (sitting or leaning), specific tiles elevate via high-torque hydraulic actuators to form rigid tables or chairs.
+* **Spatial Reconfiguration:** These modules lock into place to create physical surfaces that perfectly align with the virtual environment's layout.
+
+### 4.7 Kinetic Prop Proxy System (Robotic Arm Integration)
+
+By employing 'Sparse Physical Modeling' logic, the system reconstructs a complex physical world using a minimal set of real-world proxy models.
+
+* **Encountered Haptics:** Multi-DOF robotic arms stationed around the perimeter deliver physical "proxies" to the user's hand in real-time.
+* **Proxy Models:** Pre-fabricated, magnetically-coupled objects that mimic the weight, center of gravity, and texture of common items (e.g., branches, tools, books).
+* **System Synergy:** By combining tile-based tables with robotic-arm-delivered items, the system achieves "Sparse Physical Modeling"—using minimal real-world objects to trick the brain into perceiving a fully populated physical room.
+
+#### **Complex Scene Simulation Examples:** 
+
+By leveraging the synergy between **Morphing Furniture (Tiles)** and **Prop-Delivery Robotic Arms**, the system achieves high-fidelity simulation of complex environments using "Sparse Physical Proxies":
+
+* **Forest Traversal:**The robotic arm positions an imitated branch proxy (weighted and textured) horizontally across the user’s predicted path. As the user pushes through the virtual brush, the arm provides dynamic mechanical resistance. Combined with the **Vegetation Modules** in the floor tiles, this replicates the multi-layered physical struggle of navigating a dense forest.
+* **Library & Workspace Synergy:**The system elevates specific **Tile Units** to a precise height to form a rigid "Table Module." Simultaneously, the robotic arm places several "Physical Book Proxies" onto the elevated surface. When the user reaches out to touch a book or lean on the desk, the tactile feedback perfectly aligns with the virtual library. The brain, receiving these key physical anchors, automatically populates the entire virtual room with a sense of "real existence."
+
 ---
 
 ## 5. Chapter 4: Inertial Dynamic Interaction
@@ -296,6 +318,33 @@ Project Aether-Link is an attempt to reconstruct physical reality. We do not man
 * **五味原液混合：** 装置内部储存有极高浓度的五种基础味觉（酸、甜、苦、咸、鲜）以及清凉剂/发热剂（模拟辣味）。
 * **生物脉冲控制：** 根据虚拟世界的饮食或环境交互，通过微喷射技术将微量（微升量级）的添加剂混合物释放至舌尖区域。
 * **真实质感模拟：** 配合微磁体感服对下颌肌肉的电刺激，模拟咀嚼感，结合化学味觉反馈，实现对虚拟食物或环境毒素的生理级还原。
+
+### 4.6 动态变形家具系统 (Dynamic Morphing Furniture)
+
+该系统利用地面矩阵的纵向冗余，将“二维平面位移”扩展至“三维空间塑形”。
+
+**地砖单元重构 (Tile-Unit Reconfiguration)：**
+* **桌子/凳子模式：** 当虚拟环境检测到用户准备坐下或触碰桌面时，特定区域的地砖单元通过高强度液压支撑杆迅速升起，锁定在预设高度。模块化的方形表面通过拼合，形成刚性的物理平面。
+* **自适应高度：** 系统根据虚拟物体的物理参数实时调节模块高度，实现从矮凳到高台的无缝切换。
+
+* **表面属性增强：** 配合物理墙的材质模拟技术，升起的桌面模块可改变摩擦力与软硬度，模拟木材、石材或金属质感。
+
+### 4.7 物理代理与多自由度机械手 (Kinetic Prop Proxy System)
+
+系统通过“稀疏物理建模”逻辑，用少量的真实模型还原复杂的物理世界。
+
+**多自由度机械手阵列 (Prop-Delivery Robotic Arms)：** 环绕系统部署的多组高速、多自由度机械手。
+* **物理代理模型 (Physical Proxies)：** 预先制作的一系列带磁吸接口的通用模型（如圆柱体模拟树枝、长方体模拟书籍/手机等），每个模型都精确匹配了其对应类别的**质心与重量**。
+**协同逻辑（Encountered Haptics）：**
+* **预判投放：** 利用体感服的前馈预测数据，当用户伸手准备抓取虚拟物体（如一本书）时，机械手瞬间抓取对应的物理模型，并在触碰前的一刻精准移动至虚拟坐标位置。
+* **磁吸耦合：** 模型通过磁力与机械手连接，用户抓取后机械手可保持跟随状态以提供连续阻力，或在需要丢弃时瞬间断开。
+
+#### **复杂场景拟真举例**
+
+通过利用变形家具（瓷砖）和道具递送机械臂之间的协同作用，该系统使用“稀疏物理代理”实现了复杂环境的高保真模拟：
+
+* **森林穿行：** 机械手横向持握“树枝模型”挡在路径上，提供真实的拨开阻力。
+* **图书馆场景：** 机械手配合**桌子模块**，在桌面上方精准排布几本“物理书模型”，用户触摸到这几本书的瞬间，大脑会通过视觉补偿自动补全整个书架的物理存在感。
 
 ---
 
